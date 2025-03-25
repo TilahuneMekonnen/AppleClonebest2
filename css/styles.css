@@ -68,7 +68,7 @@ img {
   margin-top: 15px;
 }
 .footer-country {
-  margin-top: 8px;
+  margin-top: 20px;
 }
 .flag-wrapper {
   display: inline-block;
@@ -281,4 +281,3 @@ img {
 .footer-links-wrapper h3.active {
   color: #f35d0d;
 }
-
